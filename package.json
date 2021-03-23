@@ -1,0 +1,25 @@
+{
+  "name": "wolfsteppavinilos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "doctor": "^0.3.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "npm-autoinit": "^0.2.0",
+    "prod": "^1.0.1",
+    "uuid": "^8.3.2",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
